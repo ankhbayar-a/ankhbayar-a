@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @anhaa
+- 🌱 I’m currently learning JS and other programming language
